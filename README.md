@@ -11,7 +11,7 @@
   &nbsp;
   <a href="mailto:saavinash04@gmail.com"><img src="https://img.shields.io/badge/Email-saavinash04%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/avinash"><img src="https://img.shields.io/badge/LinkedIn-Avinash-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/avinash-aravindhan-983820225"><img src="https://img.shields.io/badge/LinkedIn-Avinash-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
